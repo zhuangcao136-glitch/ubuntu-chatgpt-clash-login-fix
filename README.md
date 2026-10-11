@@ -6,6 +6,10 @@
 
 ## 1. 现象与适用范围
 
+本次排障的原始错误截图：
+
+![ChatGPT 桌面端登录时报 token_exchange_failed 和地区限制 403](assets/token-exchange-failed-403.png)
+
 浏览器显示 `Codex login`，错误内容为：
 
 ```text
